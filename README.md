@@ -1,2 +1,3 @@
-# Welcome to the website of Hack Socal, Southern California's first premiere high school hackathon. 
-#Look forward to future updates!
+# Welcome to the website of HackSocal 
+Southern California's first premiere high school hackathon, developed by your very own tech team.  
+Look forward to future updates!
