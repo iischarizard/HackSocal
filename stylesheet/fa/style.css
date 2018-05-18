@@ -22,9 +22,11 @@ a{
  background-size: cover
 }
 #logo{
- position:absolute;
- left:20%;
- top:28%;
+ position: relative;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ top:10%;
  opacity: 1;
  height:30%;
 }
@@ -32,8 +34,9 @@ a{
  opacity: 0;
 }
 .side{
- position: absolute;
- right:10%;
+ position: relative;
+ top:15%;
+ margin: auto;	
  text-align: center;
  font-family: "Rubik";
 
@@ -43,7 +46,7 @@ a{
  text-align: center;
 }
 .back{
- text-align: right;
+ text-align: center;
  display: inline-block;
 
 }
@@ -64,7 +67,7 @@ a{
 
 }
 #dark h2{
- text-align: right;
+ text-align: center;
  font-family: STHeitiSC-Light, "Century Gothic" !important;
  font-style:normal !important;
  font-size: 1.5rem !important;
@@ -77,8 +80,8 @@ a{
  border-radius: 40px;
  min-height: 40px;
  display: table;
- margin:5px;
- width:100%;
+ margin:auto;
+ width: 10%;
 }
 .b:hover{
  cursor: pointer;
